@@ -1,6 +1,6 @@
 # Neuron AI Retrieval for GraphRAG
 
-This module implements the GraphRAG retrieval strategy for the Neuron AI PHP framework.
+This module implements the GraphRAG retrieval strategy for the [Neuron AI PHP framework](https://docs.neuron-ai.dev).
 
 ## Requirements
 
