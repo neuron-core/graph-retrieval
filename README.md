@@ -5,7 +5,7 @@ This module implements the GraphRAG retrieval strategy for the [Neuron AI PHP fr
 ## Requirements
 
 - PHP: ^8.1
-- Neuron: ^2.10
+- Neuron: ^3.0
 
 ## Installation
 
