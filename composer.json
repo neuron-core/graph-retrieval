@@ -1,6 +1,6 @@
 {
     "name": "neuron-core/graph-retrieval",
-    "description": "Retrieval component augmented with structured information from a knowledge graph database.",
+    "description": "Neuron AI retrieval component augmented with structured information from a knowledge graph database.",
     "minimum-stability": "stable",
     "authors": [
         {
